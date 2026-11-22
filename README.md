@@ -22,6 +22,8 @@ What interests me most is the space where **creative production tools and engine
 
 ### 1. ESP32 Geophone Source Locator
 
+[![ESP32 Geophone Source Locator hardware prototype](https://raw.githubusercontent.com/maximsokal/maximsokal/main/assets/esp32-geophone-source-locator.webp)](https://github.com/maximsokal/esp32_geophone_source_locator)
+
 **Embedded systems | Signal processing | ESP32-S3 | nRF54L15**
 
 A portable, experimental seismic localization system for search-and-rescue research. It combines simultaneous multichannel ADC acquisition, distributed sensor nodes, FreeRTOS/Zephyr firmware, TFT and web interfaces, microSD logging, and 3D TDOA geometry components.
