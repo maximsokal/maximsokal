@@ -80,11 +80,11 @@ The public entry point is the website, and support/subscription is available thr
 
 ## Open-source impact
 
-| Metric | Verified on 2026-11-22 |
+| Metric | Verified on 2026-11-23 |
 | --- | ---: |
 | Stars across public repositories | **48** |
 | GitHub Release asset downloads | **347** |
-| Public repositories | **20** |
+| Public repositories | **21** |
 
 These totals are a dated snapshot. The individual project badges above show live GitHub stars and release-asset downloads. Download counts exclude `git clone`, installations, and downloads outside GitHub Releases.
 
